@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awesomegusS
+- 👋 Hi, I’m Godswill
 - 👀 I’m interested in building machine learned/AI solutions
 - 🌱 I’m currently learning how to build ML pipelines on cloud platforms
 - 💞️ I’m looking to collaborate on ML/AI related projects
